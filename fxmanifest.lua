@@ -3,7 +3,7 @@ game 'gta5'
 
 description 'fc-hotelstashes'
 author 'facoe'
-version '1.5.0'
+version '1.2.0'
 
 shared_scripts { 
 	'config.lua'
