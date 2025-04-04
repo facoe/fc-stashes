@@ -1,2 +1,3 @@
 # fc-stashes
-Create warehouses and wardrobes throughout the city.
+
+Crea almacenes y guardarropas por toda la ciudad.
